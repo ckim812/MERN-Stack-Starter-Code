@@ -22,3 +22,10 @@ Here’s the process to create a new MERN-Stack project that starts with the inf
 10. Push for the first time: git push -u origin main
 
 Have fun coding your new project and don’t forget to make frequent commits!
+
+"npm run build"
+
+"node server"
+
+new bash
+"npm run start" or "npm start"
